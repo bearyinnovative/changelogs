@@ -3,6 +3,12 @@
 - Platform: web
 
 ----
+# 20170209/ 2017-02-09
+## Added
+- DaoCloud 机器人支持 Timeout 事件
+- GitHub 机器人支持 project / team 事件
+- GitLab 机器人支持 wiki_page 事件
+
 # 20170207/ 2017-02-07
 ## Added
 - 自定义贴纸功能
