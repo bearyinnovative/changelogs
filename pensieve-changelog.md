@@ -8,6 +8,7 @@
 - DaoCloud 机器人支持 Timeout 事件
 - GitHub 机器人支持 project / team 事件
 - GitLab 机器人支持 wiki_page 事件
+- 增加消息流中图片加载失败后重试的功能
 
 # 20170207/ 2017-02-07
 ## Added
