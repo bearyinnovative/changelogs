@@ -3,6 +3,11 @@
 - Platform: web
 
 ----
+# 20170214/ 2017-02-14
+## Added
+- 新增多主题
+- 新版支持 Reminder 功能
+
 # 20170209/ 2017-02-09
 ## Added
 - DaoCloud 机器人支持 Timeout 事件
