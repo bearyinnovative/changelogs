@@ -7,6 +7,7 @@
 ## Added
 - 新增多主题
 - 新版支持 Reminder 功能
+- 增加 DockerHub 机器人
 
 # 20170209/ 2017-02-09
 ## Added
