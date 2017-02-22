@@ -3,6 +3,12 @@
 - Platform: web
 
 ----
+# 20170221/ 2017-02-21
+## Added
+- GitHub 机器人支持 pull request review assign 事件
+## Fixed
+- 修复了 reminder 不支持临时讨论组的问题
+
 # 20170214/ 2017-02-14
 ## Added
 - 新增多主题
