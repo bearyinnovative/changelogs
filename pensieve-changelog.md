@@ -3,6 +3,12 @@
 - Platform: web
 
 ----
+
+# 20170314/ 2017-03-14
+## Added
+- 增加 GitBook、Ping++ 机器人
+- GitHub 机器人支持 milestone 事件
+
 # 20170302/ 2017-03-02
 ## Added
 - 支持国际手机号注册
