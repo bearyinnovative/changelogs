@@ -4,6 +4,16 @@
 
 ----
 
+# 20170330/ 2017-03-30
+## Added
+- GitHub 机器人支持识别 tag / branch 创建删除事件
+- 添加了 Grafana 机器人
+- 优化了手机号注册登录验证码运营商黑名单导致接收失败的问题
+
+## Fixed
+- 修复了 GitHub 机器人 pull request review 事件消息的文案
+- 修复了 Hubot 机器人创建头像为空的问题
+
 # 20170314/ 2017-03-14
 ## Added
 - 增加 GitBook、Ping++ 机器人
