@@ -3,6 +3,20 @@
 - Platform: iOS
 
 ----
+# 3.7 / 2017-07-31
+## Added
+- 首页搜索改版, 支持消息, 文件, 联系人和部门
+- 支持 Spotlight
+- 支持 SVG 和 WebP 格式图片
+- 支持更多的 Reaction
+- 部分交互和 UI 优化
+
+## Fixed
+- 修复 iPad 上的 Crash 问题
+
+# 3.6.1 / 2017-06-27
+## Fixed
+- 修复删除最近消息列表时的 Crash 问题
 
 # 3.6 / 2017-06-14
 ## Added
