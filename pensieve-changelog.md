@@ -5,11 +5,12 @@
 ----
 # 20170815/ 2017-08-15
 ## Added
-- 新增听云机器人，现在可以在听云系统上设配置 BearyChat 机器人
+- 新增听云集成，现在可以在听云系统上设配置 BearyChat 机器人
+- 新增 Open-Falcon 集成，现在可以配置 Open-Falcon 向 BearyChat 发送报警信息
 - 允许 Hubot 加入 “所有人” 讨论组
 
 ## Fixed
-- 修复 trello 机器人不会发送任务配图的 Bug
+- 修复 Trello 机器人不会发送任务配图的 Bug
 - 点击消息流中的代码预览不再打开文件详情
 - 转发文件不再计为 Mention
 - 从 Word 复制粘贴时不再粘贴图片
