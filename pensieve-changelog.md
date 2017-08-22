@@ -3,6 +3,10 @@
 - Platform: web
 
 ----
+# 20170822/ 2017-08-22
+## Added
+- 新增 FunDebug 集成，现在可以在 BearyChat 添加 FunDebug 机器人
+
 # 20170815/ 2017-08-15
 ## Added
 - 新增听云集成，现在可以在听云系统上设配置 BearyChat 机器人
