@@ -3,6 +3,10 @@
 - Platform: web
 
 ----
+#20170905/ 2017-09-05
+## Added
+- 新增 Airbrake 集成，现在可以在 BearyChat 接收来自 Airbrake 的错误信息。
+
 # 20170822/ 2017-08-22
 ## Added
 - 新增 FunDebug 集成，现在可以在 BearyChat 添加 FunDebug 机器人
