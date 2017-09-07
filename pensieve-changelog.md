@@ -3,7 +3,11 @@
 - Platform: web
 
 ----
-#20170905/ 2017-09-05
+# 20170907/ 2017-09-07
+## Added
+- Incoming 机器人在 attachments 中支持 `url` 字段。
+
+# 20170905/ 2017-09-05
 ## Added
 - 新增 Airbrake 集成，现在可以在 BearyChat 接收来自 Airbrake 的错误信息。
 
