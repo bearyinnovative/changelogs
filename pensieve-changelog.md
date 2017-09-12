@@ -3,6 +3,10 @@
 - Platform: web
 
 ----
+# 20170912/ 2017-09-12
+## Added
+- 丰富了 Ping++ 处理事件，现在 BearyChat 能够显示更多的 Ping++ 事件。
+
 # 20170907/ 2017-09-07
 ## Added
 - Incoming 机器人在 attachments 中支持 `url` 字段。
