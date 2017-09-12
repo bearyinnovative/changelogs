@@ -7,6 +7,9 @@
 ## Added
 - 丰富了 Ping++ 处理事件，现在 BearyChat 能够显示更多的 Ping++ 事件。
 
+## Fixed
+- 修复了登录页面手机号码输入框在有些手机/桌面端输入法开启时光标乱跳的问题
+
 # 20170907/ 2017-09-07
 ## Added
 - Incoming 机器人在 attachments 中支持 `url` 字段。
