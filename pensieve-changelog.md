@@ -3,6 +3,10 @@
 - Platform: web
 
 ----
+# 20170919/ 2017-09-19
+## Added
+- 新增 Taiga 机器人，现在可以在 BearyChat 中接收到来自 Taiga 的消息
+
 # 20170912/ 2017-09-12
 ## Added
 - 丰富了 Ping++ 处理事件，现在 BearyChat 能够显示更多的 Ping++ 事件。
