@@ -3,6 +3,13 @@
 - Platform: web
 
 ----
+# 20171115/ 2017-11-15
+## Added
+- 上线新版 BearyChat，详见：http://bearyinnovative.com/new-release/
+
+## Fixed
+- 修复 Trello 机器人消息提示与事件不符的问题
+
 # 20171110/ 2017-11-10
 ## Added
 - Asana 机器人：支持了 Asana 最新的授权方式，重新上架
