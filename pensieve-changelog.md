@@ -16,7 +16,7 @@
 
 # 20171115/ 2017-11-15
 ## Added
-- 上线新版 BearyChat，详见：http://bearyinnovative.com/new-release/
+- 上线新版 BearyChat，[!icon](http://bearyinnovative.com/new-release/)
 
 ## Fixed
 - 修复 Trello 机器人消息提示与事件不符的问题
@@ -155,7 +155,7 @@
 
 # 20170601/ 2017-06-01
 ## Added
-- 调整 GitLab 机器人消息格式，添加 pipeline 支持。
+- 调整 Gitlab 机器人消息格式，添加 pipeline 支持。
 
 # 20170525/ 2017-05-25
 ## Added
@@ -259,7 +259,7 @@
 ## Added
 - DaoCloud 机器人支持 Timeout 事件
 - GitHub 机器人支持 project / team 事件
-- GitLab 机器人支持 wiki_page 事件
+- Gitlab 机器人支持 wiki_page 事件
 - 增加消息流中图片加载失败后重试的功能
 
 # 20170207/ 2017-02-07
@@ -362,8 +362,8 @@
 - 增加充值功能
 - 更新 GitHub 机器人事件
 - 更新文件预览弹窗设计
-- 增加 <a href="/integrations/prometheus">Prometheus 机器人</a>
-- 增加 <a href="/integrations/zentaopms">禅道机器人</a>
+- 增加 [Prometheus](https://bearychat.com/integrations/prometheus) 机器人
+- 增加[禅道](https://bearychat.com/integrations/zentaopms)机器人
 ## Fixed
 - 修复成员更改名拼音补全问题
 - 修复文件评论导致未读标记出错
@@ -427,7 +427,7 @@
 ## Added
 - RSS 机器人关键词过滤器支持「与」逻辑
 - 优化邮件内容展示
-- GitLab CI 机器人支持到最新版本
+- Gitlab CI 机器人支持到最新版本
 
 # 20151231/ 2015-12-31
 ## Added
@@ -719,7 +719,7 @@
 ## Added
 - 新的文件样式
 - 支持邮箱或用户名登录
-- 表单工具<a href="https://jinshuju.net/" target="_blank">金数据</a>集成
+- 表单工具[金数据](https://jinshuju.net/)集成
 - GitHub Trello Bitbucket 机器人表单优化
 ## Fixed
 - 修复消息删除后未读提醒仍存在的问题
@@ -751,7 +751,7 @@
 # 20150211/ 2015-02-11
 ## Added
 - 第三栏增加文件列表
-- 增加 <a href="http://worktile.com">Worktile</a> 机器人
+- 增加 [Worktile](http://worktile.com) 机器人
 - 更新机器人列表页设计
 ## Fixed
 - 修复上传文件的报错
