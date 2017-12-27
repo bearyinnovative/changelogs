@@ -3,23 +3,29 @@
 - Platform: web
 
 ----
+# 20171227/ 2017-12-27
+## Fixed
+- 修改了消息对空白行的处理逻辑，支持保留消息中的空行
+- 修复重连后偶尔无法加载更多消息的问题
+- 修复通过邀请链接注册时提示错误的问题
+
 # 20171215/ 2017-12-15
 ## Added
-- 新增定时提醒功能的新入口，在消息输入框上方，点击闹钟图标即可发起定时提醒功能[!icon](http://bearyinnovative.com/remind/)
+- 新增定时提醒功能的新入口，在消息输入框上方，点击闹钟图标即可发起定时提醒功能 [!icon](http://bearyinnovative.com/remind/)
 - 新增隐藏会话功能，在会话列表中，点头像左边的“x”即可从会话列表中隐藏该会话
 - 新增会话头部的帮助信息
 
 # 20171212/ 2017-12-12
 ## Added
-- 新增转移讨论组管理员功能，并且讨论组管理员不允许退出讨论组[!icon](http://bearyinnovative.com/remind/)
-- 新增成员备注功能，在成员资料页面中可以点击 “添加备注名” 来为团队里的成员添加备注[!icon](http://bearyinnovative.com/remind/)
+- 新增转移讨论组管理员功能，并且讨论组管理员不允许退出讨论组 [!icon](http://bearyinnovative.com/remind/)
+- 新增成员备注功能，在成员资料页面中可以点击 “添加备注名” 来为团队里的成员添加备注 [!icon](http://bearyinnovative.com/remind/)
 
 ## Fixed
 - 修复 iOS 推送消息样式错误
 
 # 20171207/ 2017-12-07
 ## Added
-- 为了保证信息的安全性，私密讨论组不能转为公开讨论组[!icon](http://bearyinnovative.com/remind/)
+- 为了保证信息的安全性，私密讨论组不能转为公开讨论组 [!icon](http://bearyinnovative.com/remind/)
 - 在聊天界面中新增更新日志查看入口，现在可以点击聊天界面左下角的 "?" 查看更新日志
 
 ## Fixed
@@ -32,8 +38,8 @@
 
 # 20171130/ 2017-11-30
 ## Added
-- 讨论组公告重新上线，现在可以直接编辑讨论组公告，而不是设置一条消息作为讨论组公告。[!icon](http://bearyinnovative.com/top-information/)
-- 上线消息置顶功能，现在可以置顶讨论组中的重要消息，形成讨论组内的知识库。[!icon](http://bearyinnovative.com/top-information/)
+- 讨论组公告重新上线，现在可以直接编辑讨论组公告，而不是设置一条消息作为讨论组公告 [!icon](http://bearyinnovative.com/top-information/)
+- 上线消息置顶功能，现在可以置顶讨论组中的重要消息，形成讨论组内的知识库 [!icon](http://bearyinnovative.com/top-information/)
 - 设置面板上线英文版
 
 ## Fixed
@@ -43,7 +49,7 @@
 
 # 20171115/ 2017-11-15
 ## Added
-- 上线新版 BearyChat，[!icon](http://bearyinnovative.com/new-release/)
+- 上线新版 BearyChat [!icon](http://bearyinnovative.com/new-release/)
 
 ## Fixed
 - 修复 Trello 机器人消息提示与事件不符的问题
