@@ -3,6 +3,13 @@
 - Platform: web
 
 ----
+# 20180104/ 2018-01-04
+## Added
+- 消息 Reaction 支持全量 Emoji
+
+## Fixed
+- Markdown Codeblock 解析问题
+
 # 20171229/ 2017-12-29
 ## Added
 - 图片上传预览及进度显示
