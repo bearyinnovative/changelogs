@@ -3,6 +3,13 @@
 - Platform: web
 
 ----
+# 20180131/ 2018-01-31
+## Added
+- 新增团队权限设置，支持管理员设置在 #所有人 讨论组中发消息的权限 [!icon](http://bearyinnovative.com/remind/)
+- 新增团队域名变更设置，支持管理员在线变更团队域名 [!icon](http://bearyinnovative.com/permission-2/)
+- 新增新增团队偏好设置，支持管理员设置自定义的小助手欢迎语（仅高级版可用） [!icon](http://bearyinnovative.com/permission-2/)
+- 新增文本文件预览功能，支持在文件详情页直接查看文本文件的内容
+
 # 20180110/ 2018-01-10
 ## Added
 - 优化了“定时提醒” 的 UI，新增了对“每个工作日”选项，支持只在工作日提醒
