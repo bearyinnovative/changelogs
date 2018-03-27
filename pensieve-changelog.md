@@ -3,6 +3,12 @@
 - Platform: web
 
 ----
+# 20180323/ 2018-03-23
+## Added
+- 新增团队共用百科机器人，支持向机器人发送关键词以返回互动百科查询结果 [!icon](http://bearyinnovative.com/baike/)
+- 新增转发消息功能，支持团队成员在多个会话间转发消息 [!icon](http://bearyinnovative.com/baike/)
+- 新增已注销成员列表，支持团队成员查看和已注销成员历史聊天记录
+
 # 20180131/ 2018-01-31
 ## Added
 - 新增团队权限设置，支持管理员设置在 #所有人 讨论组中发消息的权限 [!icon](http://bearyinnovative.com/remind/)
