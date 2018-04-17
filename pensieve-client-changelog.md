@@ -3,6 +3,18 @@
 - Platform: client
 
 ----
+# 2018.03.28/ 2018-03-28
+## Added
+- macOS 版支持 Touch Bar 选择团队
+- 移除 titlebar 以更适配 macOS 风格
+- 新的 Windows 版窗口外观
+- 新的偏好设置窗口
+- 新的第一栏图标
+
+## Fixed
+- 修复了一些 bug
+- 代码的优化
+
 # 20170330/ 2017-03-30
 ## Fixed
 - 修复 Mac 系统意外打开控制终端的问题
