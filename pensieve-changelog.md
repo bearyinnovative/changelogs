@@ -5,6 +5,7 @@
 ----
 # 20180417/ 2018-04-17
 ## Added
+
 - 新增石墨文档摘要显示，支持用户在上传石墨云文档时显示文档摘要内容 [!icon](http://bearyinnovative.com/summary-display/)
 - 新增通讯录样式优化，支持用户搜索时能查看到成员所属的组织架构 [!icon](http://bearyinnovative.com/summary-display/)
 - 新增访客友好优化，支持访客初加入团队后主动找到对接人并发起会话 [!icon](http://bearyinnovative.com/summary-display/)
