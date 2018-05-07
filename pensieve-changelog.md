@@ -5,7 +5,7 @@
 ----
 # 20180507/ 2018-05-07
 ## Added
-- 新增私聊会话已读未读状态显示，支持用户查看发出消息的读取情况[!icon](http://bearyinnovative.com/video-conference/)
+- 新增私聊会话已读未读状态显示，支持用户查看发出消息的读取情况 [!icon](http://bearyinnovative.com/video-conference/)
 - 新增音视频会议功能，团队有免费使用时长和查看历史通话记录功能（仅高级版可用）[!icon](http://bearyinnovative.com/video-conference/)
 
 # 20180417/ 2018-04-17
