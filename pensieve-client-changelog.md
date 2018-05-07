@@ -3,6 +3,14 @@
 - Platform: client
 
 ----
+# 2018.04.25/ 2018-04-25
+## Added
+- 支持离开状态
+
+## Fixed
+- 修复了 macOS 版开启输入法后需要两次退格的 bug
+- 修复了 Windows 版右上角按钮的点击区域
+
 # 2018.03.28/ 2018-03-28
 ## Added
 - macOS 版支持 Touch Bar 选择团队
