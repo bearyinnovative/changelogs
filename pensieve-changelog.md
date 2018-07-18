@@ -15,7 +15,7 @@
 - 补充部分未符合响应式布局的设计
 - 调整消息可操作按钮的顺序
 - 调整公告栏字体行距
-## cover
+## Cover
 [![image](https://static.bearychat.com/changelog/invite-member.png)](http://bearyinnovative.com/teamcity/)
 
 # 20180607/ 2018-06-07
