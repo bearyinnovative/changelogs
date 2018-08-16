@@ -13,6 +13,9 @@
 - 统一消息合并规则，避免同一个人发送的消息在短时间内被头像信息分隔开
 - 完成成员列表性能优化，消除页面使用不流畅甚至不可用的情况
 
+## Cover
+[![image](https://static.bearychat.com/180814.png)](http://bearyinnovative.com/)
+
 # 20180720/2018-07-20	
 ## Added	
 - 新的 ChangeLog 样式，通过图片了解 BearyChat 新功能	
