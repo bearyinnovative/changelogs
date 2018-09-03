@@ -15,7 +15,7 @@
 - 修复上传文件、图片与附带消息的顺序问题，确保单个文件与说明文字紧密排列
 
 ## Cover
-[![image](https://static.bearychat.com/180806%E5%86%8D%E6%94%B9.png)](https://bearyinnovative.com/)
+[![image](https://static.bearychat.com/180806%E5%86%8D%E6%94%B9.png)](http://bearyinnovative.com/)
 
 # 20180810/2018-08-10
 ## Added
