@@ -3,6 +3,16 @@
 - Platform: Android
 
 ----
+# 3.4.8/2018-10-10
+## Added
+— 新增设备管理
+— 消息操作弹窗新样式
+— 新增 markdown 格式支持切换
+— 支持 app shortcuts
+
+## Fixed
+— 优化部分页面样式
+
 # 3.4.3/2018-9-14
 ## Fixed
 - 普通团队样式优化
