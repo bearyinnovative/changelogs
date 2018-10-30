@@ -3,6 +3,15 @@
 - Platform: Android
 
 ----
+# 3.5.1/2018-10-30
+## Added
+- 支持双击文字消息后自由复制
+
+## Fixed
+- 修复跳转 Teambition 应用报错问题
+- 适配 Android P
+- 持续性能优化
+
 # 3.4.8/2018-10-10
 ## Added
 - 新增设备管理
