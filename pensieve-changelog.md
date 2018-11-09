@@ -10,7 +10,7 @@
 - 修复对已注销成员聊天记录的页面展示问题
 
 ## Cover
-[![image]()](https://bearychat.com/1111)
+[![image](https://static.bearychat.com/181109.png)](https://bearychat.com/1111)
 
 # 20181024/2018-10-24
 ## Added
