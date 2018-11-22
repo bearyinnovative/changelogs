@@ -3,6 +3,19 @@
 - Platform: web
 
 ----
+# 20181122/2018-11-22
+## Added
+- 新增消息流区分主客态，便于区分本人与他人发送的消息
+
+## Fixed
+- 消息菜单样式优化
+- 注册账号时去掉选填信息项
+- 修复创建团队的问题
+
+## Cover
+[![image](https://static.bearychat.com/181120.png)](http://bearyinnovative.com/)
+
+
 # 20181108/2018-11-08
 ## Fixed
 - 修复由权限管理导致无法创建私密讨论组的问题
