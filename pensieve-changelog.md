@@ -3,6 +3,19 @@
 - Platform: web
 
 ----
+# 20181220/2018-12-20
+## Added
+- 优化通过手机、邮箱邀请新成员的流程
+- 优化选人弹窗，增加通过组织架构选择成员
+
+## Fixed
+- 修复部分页面翻译问题
+- 优化切换会话速度
+
+## Cover
+[![image](https://static.bearychat.com/181221.png)](http://bearyinnovative.com/)
+
+
 # 20181122/2018-11-22
 ## Added
 - 新增消息流区分主客态，便于区分本人与他人发送的消息
