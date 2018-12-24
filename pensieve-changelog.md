@@ -13,7 +13,7 @@
 - 优化切换会话速度
 
 ## Cover
-[![image](https://static.bearychat.com/181221.png)](http://bearyinnovative.com/)
+[![image](https://static.bearychat.com/181221.png)](https://modao.cc/posts/10983)
 
 
 # 20181122/2018-11-22
