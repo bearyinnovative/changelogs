@@ -3,6 +3,12 @@
 - Platform: Android
 
 ----
+# 3.6.4/2019-2-18
+## Fixed
+- 修复 incoming 消息中链接点击问题 
+- 修复在线状态 header 显示与文案 
+- 优化 markdown 格式渲染
+
 
 # 3.6.3/2019-1-31
 ## Fixed
