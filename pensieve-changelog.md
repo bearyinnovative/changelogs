@@ -4,6 +4,26 @@
 
 ----
 
+# 20190315/2019-03-15
+## Added
+- 新版搜索上线，帮助您更快地找到您想要的
+- 保存设置提醒内容的草稿
+
+## Cover
+[![image](https://static.bearychat.com/181121%281%29.png)](http://bearyinnovative.com/update-20190315/)
+
+
+# 20190314/2019-03-14
+## Added
+- 新增消息批量操作，支持合并分享消息记录
+
+## Fixed
+- 完善消息草稿功能，支持置顶保留草稿的会话
+
+## Cover
+[![image](https://static.bearychat.com/190306.png)](http://bearyinnovative.com/update-20190315/)
+
+
 # 20190214/2019-02-14
 ## Fixed
 - 修复编辑框补全被覆盖的问题
